@@ -9,5 +9,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=6ust&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ust&layout=compact&langs_count=7&theme=dark"/>
 
-  ![Snake animation](https://github.com/6ust/6ust/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/6ust/6ust/blob/output/github-contribution-grid-snake.svg) -->
 </div>
