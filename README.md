@@ -1,7 +1,7 @@
 ### 6ust 🤨
 
 - 🤐 Repositorios disponiveis com exemplos de desenvolvimento de codigos/script, alguns são estudos outros são apenas exemplo que podem ser uteis para alguns.
-- 📕 Estudando: Desenvolvimento de Jogo 2D com Unity;
+- 📕 Estudando: Spring Framework 5 e Spring Boot 2 / Desenvolvimento de Jogo 2D com Unity;
 - 🍳 Conhecimentos diversos: HTML, CSS, JS, VB Script, C, C Sharp, Java, SQL, PHP, Python.
 
 <div>
